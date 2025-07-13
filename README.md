@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
   <div align="center">
     <!-- knock code pictures 敲代码的图片 -->
-    <picture>
+   <!-- <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
       <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    </picture>
+       <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    </picture> -->
     <img src="https://stats.justsong.cn/api/csdn?id=weixin_52288941"> 
   </div>
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     <a href="https://blog.csdn.net/weixin_52288941?type=blog"><img src="https://img.shields.io/badge/CSDN-山有木兮-red" /></a>&emsp;
     <a href="https://blog.csdn.net/weixin_52288941?type=blog"><img src="https://img.shields.io/badge/WeChat-青柠-07c160" /></a>&emsp;
     <img src="https://img.shields.io/badge/QQ-2205599679-blue?logo=tencentqq" />&emsp;
-    <a href="https://blog.csdn.net/weixin_52288941?type=blog"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://qingyh6.github.io/"><img src="https://img.shields.io/badge/个人笔记-网站-ff69b4" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=qingyh6&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div> 
